@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>It's a map</title>
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+<style>
+#map { height: 180px; }
+</style>
+<script type="text/javascript">
+
+var map = L.map('map').setView([133.8700, -23.7000], 13);
+
+L.tileLayer('https://api.tiles.mapbox.com/v4/{resource}.json?access_token=pk.eyJ1IjoibWFyZWViaWtldG91cm96IiwiYSI6Ijk5YjBkZDNmNzZkZTBkNzU3NThiNTRiZWM0NTFiNmM4In0.7tb_ZpOqSBUweCxL22qIeA', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+    id: 'mareebiketouroz.09133ad2',
+    accessToken: 'pk.eyJ1IjoibWFyZWViaWtldG91cm96IiwiYSI6Ijk5YjBkZDNmNzZkZTBkNzU3NThiNTRiZWM0NTFiNmM4In0.7tb_ZpOqSBUweCxL22qIeA'
+}).addTo(map);
+
+var camps = new L.geoJson();
+camps.addTo(map);
+
+$.ajax({
+dataType: "json",
+url: "data/camps.geojson",
+success: function(data) {
+    $(data.features).each(function(key, data) {
+        camps.addData(data);
+    });
+}
+}).error(function() { console.log("Failed to load geojson")});
+</script>
+</head>
+<body>
+<div id="map"></div>
+</body>
+</html>
