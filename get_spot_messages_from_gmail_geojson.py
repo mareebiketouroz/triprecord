@@ -3,6 +3,9 @@
 """
 Retrieves SPOT gps check in messages from a gmail folder
 and outputs in a geojson file
+
+Note: if you have two step verification, you should use a
+app password instead of your usual password. See https://support.google.com/accounts/answer/185833?hl=en and https://security.google.com/settings/security/apppasswords?pli=1 for more information
 """
 
 import imaplib
