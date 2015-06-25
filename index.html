@@ -26,7 +26,8 @@
 #map { height: 180px; }
 </style>
 <script type="text/javascript">
-$( 
+$( document ).ready(function() {
+
 var map = L.map('map').setView([133.8700, -23.7000], 13);
 
 L.tileLayer('https://api.tiles.mapbox.com/v4/{resource}.json?access_token=pk.eyJ1IjoibWFyZWViaWtldG91cm96IiwiYSI6Ijk5YjBkZDNmNzZkZTBkNzU3NThiNTRiZWM0NTFiNmM4In0.7tb_ZpOqSBUweCxL22qIeA', {
@@ -48,7 +49,8 @@ success: function(data) {
     });
 }
 }).error(function() { console.log("Failed to load geojson")});
- )
+ 
+});
 </script>
 </head>
 <body>
