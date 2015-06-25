@@ -9,13 +9,17 @@ app password instead of your usual password. See https://support.google.com/acco
 """
 
 import imaplib
-import geojson 
+import geojson
+import ConfigParser
+
+config =  ConfigParser.ConfigParser()
+config.read('my.config')
 
 ## set these
-email = ''
-passwd = ''
-folder = 'SPOT' #the folder where the SPOT GPS messages were filtered to
-outputfile = 'camps.geojson'
+email = config.get('email','email')
+passwd = config.get('email', 'passwd')
+folder = config.get('email', 'folder')
+outputfile = config.get('output', 'file')
 
 features = []
 
