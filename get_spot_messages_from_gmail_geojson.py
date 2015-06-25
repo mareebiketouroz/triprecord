@@ -19,7 +19,7 @@ config.read('my.config')
 email = config.get('email','email')
 passwd = config.get('email', 'passwd')
 folder = config.get('email', 'folder')
-outputfile = config.get('output', 'file')
+outputfile = config.get('output', 'geojsonfile')
 
 features = []
 
