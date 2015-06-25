@@ -8,7 +8,17 @@ import simplekml
 
 kml = simplekml.Kml()
 
+import ConfigParser
+
+config =  ConfigParser.ConfigParser()
+config.read('my.config')
+
 ## set these
+email = config.get('email','email')
+passwd = config.get('email', 'passwd')
+folder = config.get('email', 'folder')
+outputfile = config.get('output', 'file')
+
 email = ''
 pass = ''
 folder = 'SPOT'
