@@ -24,6 +24,11 @@
 <style>
 #map { height: 180px; }
 </style>
+</head>
+<body>
+It's a map!
+<div id="map"></div>
+</body>
 <script type="text/javascript">
 
 var map = L.map('map').setView([133.8700, -23.7000], 13);
@@ -48,9 +53,4 @@ success: function(data) {
 }
 }).error(function() { console.log("Failed to load geojson")});
 </script>
-</head>
-<body>
-It's a map!
-<div id="map"></div>
-</body>
 </html>
