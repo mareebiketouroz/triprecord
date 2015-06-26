@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
 Retrieves SPOT gps check in messages from a gmail folder
 and outputs in a kml file
@@ -5,6 +7,8 @@ and outputs in a kml file
 
 import imaplib
 import simplekml
+import datetime
+from dateutil import parser
 
 kml = simplekml.Kml()
 
@@ -18,14 +22,11 @@ email = config.get('email','email')
 passwd = config.get('email', 'passwd')
 folder = config.get('email', 'folder')
 outputfile = config.get('output', 'kmlfile')
-
-email = ''
-pass = ''
-folder = 'SPOT'
-outputfile = 'camps.kml'
+spotdatetimeformat = config.get('spot','datetimeformat')
+isodatetimeformat = config.get('misc','isodatetimeformat')
 
 mail = imaplib.IMAP4_SSL('imap.gmail.com')
-mail.login(email, pass) 
+mail.login(email, passwd) 
 mail.select('SPOT') #the folder where the SPOT GPS messages were filtered to
 typ, data = mail.search(None, 'ALL')
 for num in data[0].split():
@@ -43,6 +44,7 @@ for num in data[0].split():
             lon = line.replace('Longitude:','')
         if line.find('GPS location Date/Time:') != -1:
             date = line.replace('GPS location Date/Time:','')
+    date = parser.parse(date).strftime(isodatetimeformat)    
     kml.newpoint(name=date, coords=[(lon,lat)]) # kml marker
 mail.close()
 mail.logout()

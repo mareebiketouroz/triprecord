@@ -20,6 +20,8 @@ email = config.get('email','email')
 passwd = config.get('email', 'passwd')
 folder = config.get('email', 'folder')
 outputfile = config.get('output', 'geojsonfile')
+spotdatetimeformat = config.get('spot','datetimeformat')
+isodatetimeformat = config.get('misc','isodatetimeformat')
 
 features = []
 
@@ -43,9 +45,10 @@ for num in data[0].split():
         if line.find('GPS location Date/Time:') != -1:
             date = line.replace('GPS location Date/Time:','')
     if lat and lon and date:
-	   print "Lat %s Lon %s Date %s" % (lat, lon, date)
-	   feature = geojson.Feature(geometry=geojson.Point((lon,lat)), properties={"date": date})
-	   features.append(feature)
+        print "Lat %s Lon %s Date %s" % (lat, lon, date)
+        date = parser.parse(date).strftime(isodatetimeformat)
+        feature = geojson.Feature(geometry=geojson.Point((lon,lat)), properties={"date": date})
+        features.append(feature)
     else:
         print "Lat/lon/date not found"
 mail.close()
@@ -54,7 +57,7 @@ mail.logout()
 if len(features) > 0:
     featurecollection = geojson.FeatureCollection(features)
     f = open(outputfile,'w')
-    geojson.dump(featurecollection, f)
+    geojson.dump(featurecollection, f, indent=4)
     f.close()
     print 'Camps geojson saved to %s' % outputfile
 else:
