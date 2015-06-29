@@ -45,6 +45,7 @@ url: "data/camps.geojson",
 success: function(data) {
     $(data.features).each(function(key, data) {
         camps.addData(data);
+        camps.bindPopup(data.properties.date);
     });
 }
 }).error(function() { console.log("Failed to load geojson")});
