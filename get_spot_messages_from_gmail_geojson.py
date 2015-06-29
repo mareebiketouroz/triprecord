@@ -11,6 +11,7 @@ app password instead of your usual password. See https://support.google.com/acco
 import imaplib
 import geojson
 import ConfigParser
+from dateutil import parser
 
 config =  ConfigParser.ConfigParser()
 config.read('my.config')
