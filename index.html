@@ -45,13 +45,14 @@ $.ajax({
 	url: "data/camps.geojson",
 	success: function(data) {
 		camps = L.geoJson(data, {
-			onEachFeature: function(feature, layer) {
-				console.log(feature);
+			onEachFeature: function(feature, layer) {				
 				if(feature.properties && feature.properties.date) {						
+					console.log("Feature " + feature.properties.date + " bound to popup")
 					layer.bindPopup(feature.properties.date);
 				}
 				else {
-					layer.bindPopup("Nothing to see here");
+					console.log("Feature not bound to popup")
+					//layer.bindPopup("Nothing to see here");
 				}
 			}
 		});
