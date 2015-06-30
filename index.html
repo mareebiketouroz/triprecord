@@ -36,13 +36,7 @@ L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 18    
 }).addTo(map);
 
-var camps = new L.geoJson({
-	onEachFeature: function(feature, layer) {
-		if(feature.properties && feature.properties.date) {
-			layer.bindPopup(feature.properties.date);
-		}
-	}
-});
+var camps = new L.geoJson(); // empty geojson, add to with ajax call
 camps.addTo(map);
 
 $.ajax({
@@ -50,9 +44,14 @@ dataType: "json",
 url: "data/camps.geojson",
 success: function(data) {
     $(data.features).each(function(key, data) {
-        camps.addData(data);
-        // nope, that's not right        
-        //camps.bindPopup(data.properties.date);
+        camps.addData(data, {
+        	// display date property in popup
+			onEachFeature: function(feature, layer) {
+				if(feature.properties && feature.properties.date) {
+					layer.bindPopup(feature.properties.date);
+				}
+			}
+		});        
     });
 }
 }).error(function() { console.log("Failed to load geojson")});
