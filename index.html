@@ -43,7 +43,7 @@ $.ajax({
 	dataType: "json",
 	url: "data/camps.geojson",
 	success: function(data) {
-	    $(data.features).each(function(key, data) {
+	    /*$(data.features).each(function(key, data) {
 	        camps.addData(data, {
 	        	// display date property in popup
 				onEachFeature: function(feature, layer) {
@@ -56,7 +56,18 @@ $.ajax({
 					}
 				}
 			});        
-	    });
+	    });*/
+		camps.addData(data, {
+			onEachFeature: function(feature, layer) {
+				console.log(feature.properties.date);
+				if(feature.properties && feature.properties.date) {						
+					layer.bindPopup(feature.properties.date);
+				}
+				else {
+					layer.bindPopup("Nothing to see here");
+				}
+			}
+		});
 	}
 }).error(function() { console.log("Failed to load geojson")});
  
