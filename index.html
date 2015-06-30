@@ -44,8 +44,8 @@ $.ajax({
 	dataType: "json",
 	url: "data/camps.geojson",
 	success: function(data) {
-		camps = L.geoJson(data, {
-			pointToLayer: function(feature, latlng) {
+		camps = L.geoJson(data, {			
+			/*pointToLayer: function(feature, latlng) {
 				return L.circleMarker(latlng, 
 		        {
 		        	radius: 1,
@@ -55,7 +55,7 @@ $.ajax({
 		            opacity: 1,
 		            fillOpacity: 0.8                
 		        });
-			},
+			},*/
 			onEachFeature: function(feature, layer) {				
 				if(feature.properties && feature.properties.date) {						
 					console.log("Feature " + feature.properties.date + " bound to popup")
@@ -67,17 +67,8 @@ $.ajax({
 				}
 			}
 		});
-		/*camps.addData(data, {
-			onEachFeature: function(feature, layer) {
-				console.log(feature);
-				if(feature.properties && feature.properties.date) {						
-					layer.bindPopup(feature.properties.date);
-				}
-				else {
-					layer.bindPopup("Nothing to see here");
-				}
-			}
-		});*/
+
+		camps.addTo(map);
 	}
 }).error(function() { console.log("Failed to load geojson")});
  
