@@ -59,7 +59,7 @@ $.ajax({
 	    });*/
 		camps.addData(data, {
 			onEachFeature: function(feature, layer) {
-				console.log(feature.properties.date);
+				console.log(feature);
 				if(feature.properties && feature.properties.date) {						
 					layer.bindPopup(feature.properties.date);
 				}
