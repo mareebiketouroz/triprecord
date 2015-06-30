@@ -48,6 +48,7 @@ $.ajax({
 	        	// display date property in popup
 				onEachFeature: function(feature, layer) {
 					if(feature.properties && feature.properties.date) {
+						console.log(feature.properties.date);
 						layer.bindPopup(feature.properties.date);
 					}
 					else {
