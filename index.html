@@ -36,28 +36,15 @@ L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 18    
 }).addTo(map);
 
-var camps = new L.geoJson(); // empty geojson, add to with ajax call
-camps.addTo(map);
+var camps; // geojson layer
+//var camps = new L.geoJson(); // empty geojson, add to with ajax call
+//camps.addTo(map);
 
 $.ajax({
 	dataType: "json",
 	url: "data/camps.geojson",
 	success: function(data) {
-	    /*$(data.features).each(function(key, data) {
-	        camps.addData(data, {
-	        	// display date property in popup
-				onEachFeature: function(feature, layer) {
-					console.log(feature.properties.date);
-					if(feature.properties && feature.properties.date) {						
-						layer.bindPopup(feature.properties.date);
-					}
-					else {
-						layer.bindPopup("Nothing to see here");
-					}
-				}
-			});        
-	    });*/
-		camps.addData(data, {
+		camps = L.geoJson(data, {
 			onEachFeature: function(feature, layer) {
 				console.log(feature);
 				if(feature.properties && feature.properties.date) {						
@@ -68,6 +55,17 @@ $.ajax({
 				}
 			}
 		});
+		/*camps.addData(data, {
+			onEachFeature: function(feature, layer) {
+				console.log(feature);
+				if(feature.properties && feature.properties.date) {						
+					layer.bindPopup(feature.properties.date);
+				}
+				else {
+					layer.bindPopup("Nothing to see here");
+				}
+			}
+		});*/
 	}
 }).error(function() { console.log("Failed to load geojson")});
  
