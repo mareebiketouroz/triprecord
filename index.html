@@ -40,20 +40,23 @@ var camps = new L.geoJson(); // empty geojson, add to with ajax call
 camps.addTo(map);
 
 $.ajax({
-dataType: "json",
-url: "data/camps.geojson",
-success: function(data) {
-    $(data.features).each(function(key, data) {
-        camps.addData(data, {
-        	// display date property in popup
-			onEachFeature: function(feature, layer) {
-				if(feature.properties && feature.properties.date) {
-					layer.bindPopup(feature.properties.date);
+	dataType: "json",
+	url: "data/camps.geojson",
+	success: function(data) {
+	    $(data.features).each(function(key, data) {
+	        camps.addData(data, {
+	        	// display date property in popup
+				onEachFeature: function(feature, layer) {
+					if(feature.properties && feature.properties.date) {
+						layer.bindPopup(feature.properties.date);
+					}
+					else {
+						layer.bindPopup("Nothing to see here");
+					}
 				}
-			}
-		});        
-    });
-}
+			});        
+	    });
+	}
 }).error(function() { console.log("Failed to load geojson")});
  
 });
