@@ -36,7 +36,13 @@ L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 18    
 }).addTo(map);
 
-var camps = new L.geoJson();
+var camps = new L.geoJson({
+	onEachFeature: function(feature, layer) {
+		if(feature.properties && feature.properties.date) {
+			layer.bindPopup(feature.properties.date);
+		}
+	}
+});
 camps.addTo(map);
 
 $.ajax({
