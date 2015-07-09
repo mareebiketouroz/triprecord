@@ -27,7 +27,7 @@ isodatetimeformat = config.get('misc','isodatetimeformat')
 
 mail = imaplib.IMAP4_SSL('imap.gmail.com')
 mail.login(email, passwd) 
-mail.select('SPOT') #the folder where the SPOT GPS messages were filtered to
+mail.select(folder) 
 typ, data = mail.search(None, 'ALL')
 for num in data[0].split():
     typ, data = mail.fetch(num, '(RFC822)')
