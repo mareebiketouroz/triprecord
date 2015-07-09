@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    143.34143, 
+                    -35.09616
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "date": "2015-07-01 16:07:33 "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    142.82486, 
+                    -34.60887
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "date": "2015-07-02 15:59:04 "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    142.2502, 
+                    -34.20367
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "date": "2015-07-03 16:02:28 "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    141.1629, 
+                    -34.27299
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "date": "2015-07-04 17:54:05 "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    140.50908, 
+                    -34.65608
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "date": "2015-07-05 16:10:56 "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    139.80493, 
+                    -35.10843
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "date": "2015-07-06 16:28:29 "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    139.04234, 
+                    -35.29956
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "date": "2015-07-07 15:55:59 "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    138.68179, 
+                    -35.53526
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "date": "2015-07-08 18:43:37 "
+            }
+        }
+    ]
+}
