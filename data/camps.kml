@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>2015-07-01 16:07:39 </name>
+            <Point id="geom_0">
+                <coordinates>143.34149,-35.09615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>2015-07-02 16:01:31 </name>
+            <Point id="geom_1">
+                <coordinates>142.82489,-34.60893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>2015-07-03 15:59:40 </name>
+            <Point id="geom_2">
+                <coordinates>142.25017,-34.20367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>2015-07-04 17:52:03 </name>
+            <Point id="geom_3">
+                <coordinates>141.16280,-34.27299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>2015-07-05 16:10:09 </name>
+            <Point id="geom_4">
+                <coordinates>140.50906,-34.65617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>2015-07-06 16:28:10 </name>
+            <Point id="geom_5">
+                <coordinates>139.80492,-35.10851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>2015-07-07 15:58:10 </name>
+            <Point id="geom_6">
+                <coordinates>139.04228,-35.29967,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>2015-07-08 18:50:31 </name>
+            <Point id="geom_7">
+                <coordinates>138.68170,-35.53349,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
