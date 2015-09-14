@@ -307,5 +307,83 @@
                 <coordinates>133.79176,-23.87675,0.0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="feat_53">
+            <name>2015-08-30 16:05:38 </name>
+            <Point id="geom_51">
+                <coordinates>133.88318,-23.70003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>2015-09-02 17:43:39 </name>
+            <Point id="geom_52">
+                <coordinates>133.48289,-22.87984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>2015-09-03 18:29:38 </name>
+            <Point id="geom_53">
+                <coordinates>133.67117,-21.79832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>2015-09-04 18:16:35 </name>
+            <Point id="geom_54">
+                <coordinates>134.20406,-20.98676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>2015-09-05 15:34:09 </name>
+            <Point id="geom_55">
+                <coordinates>134.25526,-20.56808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>2015-09-06 17:13:40 </name>
+            <Point id="geom_56">
+                <coordinates>134.19467,-19.75591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>2015-09-07 19:51:54 </name>
+            <Point id="geom_57">
+                <coordinates>134.20245,-19.61140,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>2015-09-08 18:40:09 </name>
+            <Point id="geom_58">
+                <coordinates>133.97826,-18.69585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>2015-09-09 19:09:09 </name>
+            <Point id="geom_59">
+                <coordinates>133.62340,-17.68018,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>2015-09-10 19:09:20 </name>
+            <Point id="geom_60">
+                <coordinates>133.41888,-16.71693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>2015-09-11 18:06:39 </name>
+            <Point id="geom_61">
+                <coordinates>133.43306,-15.92412,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>2015-09-12 17:39:39 </name>
+            <Point id="geom_62">
+                <coordinates>133.08507,-15.01651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>2015-09-13 19:32:04 </name>
+            <Point id="geom_63">
+                <coordinates>132.34796,-14.48100,0.0</coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>
