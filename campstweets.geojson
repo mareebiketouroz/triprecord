@@ -1,0 +1,1139 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.34149,
+                    -35.09615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-01 16:07:39 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.82489,
+                    -34.60893
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-02 16:01:31 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.25017,
+                    -34.20367
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-03 15:59:40 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1628,
+                    -34.27299
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-04 17:52:03 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.50906,
+                    -34.65617
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-05 16:10:09 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.80492,
+                    -35.10851
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-06 16:28:10 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.04228,
+                    -35.29967
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-07 15:58:10 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6817,
+                    -35.53349
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-08 18:50:31 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.94023,
+                    -35.71786
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-10 20:23:19 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.06712,
+                    -35.78522
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-11 16:52:49 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.94017,
+                    -35.71802
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-12 18:56:41 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.46039,
+                    -35.29929
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-16 16:22:56 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.59471,
+                    -34.92613
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-17 14:25:26 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.80176,
+                    -34.88605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-19 16:57:29 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.98355,
+                    -34.76575
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-20 17:25:41 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.00584,
+                    -34.46603
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-21 16:04:58 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.86424,
+                    -34.24828
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-22 16:49:10 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6201,
+                    -33.86511
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-23 17:55:04 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.601,
+                    -33.2059
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-24 17:19:49 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.61005,
+                    -32.73235
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-25 15:30:59 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.49399,
+                    -32.0699
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-26 17:22:02 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.42627,
+                    -31.88654
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-27 15:11:08 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6035,
+                    -31.52412
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-29 16:28:11 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.63763,
+                    -31.34544
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-30 16:13:00 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.52916,
+                    -31.13423
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-07-31 17:03:49 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.40692,
+                    -30.59238
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-01 18:19:10 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.09911,
+                    -29.68797
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-02 15:43:04 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.28419,
+                    -29.68391
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-03 17:56:11 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.92551,
+                    -30.34045
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-04 19:01:34 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.8989,
+                    -30.56139
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-05 13:49:27 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.59792,
+                    -31.26549
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-07 17:55:12 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.76768,
+                    -30.99724
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-08 16:59:39 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34242,
+                    -30.39308
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-09 17:49:35 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.01248,
+                    -29.46556
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-10 17:51:39 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.7542,
+                    -29.01048
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-11 16:55:17 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.11139,
+                    -27.98599
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-14 17:33:40 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.45226,
+                    -27.05804
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-15 18:23:09 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.19254,
+                    -26.043
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-16 18:43:05 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.84595,
+                    -25.24861
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-17 18:00:11 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.79089,
+                    -25.3237
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-18 17:40:10 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.98958,
+                    -25.24458
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-19 18:00:10 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.69559,
+                    -25.30348
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-20 16:19:25 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.69559,
+                    -25.30348
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-21 16:27:49 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.67438,
+                    -25.29738
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-22 18:12:38 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.25182,
+                    -24.5735
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-23 18:09:28 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.58543,
+                    -24.3046
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-24 17:09:05 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.93195,
+                    -24.43953
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-25 17:21:33 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.18976,
+                    -25.14528
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-26 18:05:09 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.04248,
+                    -25.22464
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-27 18:37:34 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.1429,
+                    -24.57115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-28 18:18:40 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.79176,
+                    -23.87675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-29 18:14:20 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.88318,
+                    -23.70003
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-08-30 16:05:38 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.48289,
+                    -22.87984
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-02 17:43:39 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.67117,
+                    -21.79832
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-03 18:29:38 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.20406,
+                    -20.98676
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-04 18:16:35 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.25526,
+                    -20.56808
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-05 15:34:09 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.19467,
+                    -19.75591
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-06 17:13:40 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.20245,
+                    -19.6114
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-07 19:51:54 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.97826,
+                    -18.69585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-08 18:40:09 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.6234,
+                    -17.68018
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-09 19:09:09 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.41888,
+                    -16.71693
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-10 19:09:20 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.43306,
+                    -15.92412
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-11 18:06:39 ",
+                "tweets": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Parked my bike in the sun next to tin fence. while we grabbed lunch. My bike thermometer saying 62 degrees.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642185658723774465\">September 11, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.08507,
+                    -15.01651
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-12 17:39:39 ",
+                "tweets": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Corkwood <a href=\"http://t.co/yCuKOIopDZ\">pic.twitter.com/yCuKOIopDZ</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642812322642202624\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">We are thinking the bird we heard that sounded a bit like zoiberg was an (agitated) nightjar, but not certain.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642669588048510977\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The dried roadkill of the agile is pretty grim looking in the face, if you can imagine <a href=\"http://t.co/ctzkhtjkJr\">http://t.co/ctzkhtjkJr</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642636151291949061\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Agile wallaby <a href=\"https://t.co/5eaxvVDeaQ\">https://t.co/5eaxvVDeaQ</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642635146852634624\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Wallaby visits. The best.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642633891182841856\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/Coaltopia\">@Coaltopia</a> yes Dad, each. Besides you just have to shake your water bottle at a grey nomad for water, tea, iced vovos in exchange for 30 Qs.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642632621843877888\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Birds are trolling me by flitting about in the long grass making me imagine PERENTIE ATTACK <a href=\"https://t.co/AhVb00lFMo\">https://t.co/AhVb00lFMo</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642629745805406208\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/kylie_j_s\">@kylie_j_s</a> it sounded like alien muppets, but thankfully didn&#39;t keep wooping all night</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642622541538836480\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Found some bush bananas today <a href=\"http://t.co/rN7qE2ONdV\">pic.twitter.com/rN7qE2ONdV</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642622021763858433\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Useful <a href=\"http://t.co/xhXtd6NR6A\">http://t.co/xhXtd6NR6A</a> Pretty sure I scared a Great Billed Heron off a dam this morning while riding past</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642615383870980096\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">There was this bird call the other night near Bootu Creek that sounded like Zoiberg woops <a href=\"http://t.co/3gAHTLN4yd\">http://t.co/3gAHTLN4yd</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642612819586711553\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Keeping my eyes peeled for... <a href=\"http://t.co/ZAj1ChRVvG\">pic.twitter.com/ZAj1ChRVvG</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642612277628137472\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Very cool birds everyday: black kites, whistling kites, red tailed black cockatoos, zebra finches, budgies, galahs to name some</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642611995632504832\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">There are cattle ticks here (just flicked one off) but I am NOT GETTING UP</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642606951382147072\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Soooooo looking forward to a rest day. I think I&#39;ll just spend it in a pool drinking. Possibly drinking a pool.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642606682183303168\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">A few fires about. Hopefully one won&#39;t sneak up on us while we sleep.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642603472366338049\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Had enough of today <a href=\"http://t.co/Wkr3ZTefNK\">pic.twitter.com/Wkr3ZTefNK</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642602221557776384\">September 12, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.34796,
+                    -14.481
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-13 19:32:04 ",
+                "tweets": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">And at least 30 agile wallabies.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642987612072841216\">September 13, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Today I saw a rainbow bee eater and two red backed fairy wrens.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/642987500235952128\">September 13, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.26779,
+                    -14.46251
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-14 15:01:59 ",
+                "tweets": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">New blog post: &quot;We are a shade-seeking missiles&quot;   <a href=\"http://t.co/6RbzACNxtV\">http://t.co/6RbzACNxtV</a> <a href=\"http://t.co/0ndVPujp02\">pic.twitter.com/0ndVPujp02</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/643543447752806401\">September 14, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Stolen joke from Simon</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/643542922663559169\">September 14, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">To Australia: Show me on the map where the bad man hurt you</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/643542774608859136\">September 14, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Who&#39;s awake? New blog post: &quot;We are a shade-seeking missiles&quot;   <a href=\"http://t.co/6RbzACNxtV\">http://t.co/6RbzACNxtV</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/643449215260037121\">September 14, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">So grid of! <a href=\"http://t.co/TFfBxASzOT\">pic.twitter.com/TFfBxASzOT</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/643415924788215808\">September 14, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">I just wanna keep watching the crocwise video. Here&#39;s the English version, but I prefer the kriol <a href=\"https://t.co/LN6pHRfGvJ\">https://t.co/LN6pHRfGvJ</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/643285145059876864\">September 14, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Since last shower... <a href=\"http://t.co/Ay5ht8T5lv\">pic.twitter.com/Ay5ht8T5lv</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/643279150120218625\">September 14, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Update: I have showered.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/643277618968596481\">September 14, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">You think Dumb Ways To Die was catchy? Be Crocwise - Kriol full version: <a href=\"http://t.co/5bGonApZo6\">http://t.co/5bGonApZo6</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/643249304233086976\">September 14, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Awesome NTPE/Pidgin/Kriol bible translation <a href=\"http://t.co/6XiH4zpLbl\">http://t.co/6XiH4zpLbl</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/643246821209313280\">September 14, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/TonyHWindsor\">@TonyHWindsor</a> wish you had a political analysis podcast ...</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/643242990249492480\">September 14, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Just spent 10 minutes watching a whistling kite preen. Better than TV.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/643241870286393345\">September 14, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Listening to and watching the whistling kites in the shady park which has shade. Also, shade.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/643237897957568512\">September 14, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">In Katherine <a href=\"https://t.co/MVpq5ME8P0\">https://t.co/MVpq5ME8P0</a> (request desktop site on mobile)</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/643221623366139904\">September 14, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.72607,
+                    -15.09103
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-16 18:51:39 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.12933,
+                    -15.61716
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-17 20:38:35 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.12933,
+                    -15.61716
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-18 20:09:11 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.11372,
+                    -15.71606
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-19 18:38:36 ",
+                "tweets": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Such is the devastating heat of afternoons, we rode 90 km before lunch. Now back on the road for another 40 with BREAKS!</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645092134605881344\">September 19, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Whip snake? <a href=\"https://twitter.com/hashtag/wildoz?src=hash\">#wildoz</a> <a href=\"http://t.co/zslJHSiNiR\">pic.twitter.com/zslJHSiNiR</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645076708974944257\">September 19, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">We have crossed the boab line <a href=\"https://twitter.com/hashtag/victoriariver?src=hash\">#victoriariver</a> <a href=\"https://twitter.com/hashtag/nt?src=hash\">#nt</a> <a href=\"http://t.co/zDQxfItoUy\">pic.twitter.com/zDQxfItoUy</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645076454485594113\">September 19, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/Coaltopia\">@Coaltopia</a> is that now a fence post? How post peak oil!</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645068651326914563\">September 19, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.17691,
+                    -16.06114
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-20 18:46:41 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.74124,
+                    -15.77844
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-21 20:22:41 ",
+                "tweets": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Damn, hope they can get this under control <a href=\"http://t.co/oq5xQ4ae6v\">http://t.co/oq5xQ4ae6v</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645907609032089604\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Boab habitat: Whistling kite chicks in this nest, with a parent guarding nearby <a href=\"http://t.co/SzmTxwMHBb\">pic.twitter.com/SzmTxwMHBb</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645902954147352576\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Boabs in East Kimberley early this morning <a href=\"http://t.co/isP9qUetL0\">pic.twitter.com/isP9qUetL0</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645896929667256321\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Boab stories&#10;<a href=\"https://t.co/CJSlbuHMK8\">https://t.co/CJSlbuHMK8</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645893673377382401\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">World car free day tomorrow</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645883225965858816\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Thought it was <a href=\"https://twitter.com/hashtag/putoutyouronions?src=hash\">#putoutyouronions</a> but it was just border quarantine <a href=\"https://twitter.com/hashtag/tonywho?src=hash\">#tonywho</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645849341496684544\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/MikeCarlton01\">@MikeCarlton01</a> did that guy get a FREE tertiary education?</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645848506100416512\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Boab diversion <a href=\"https://t.co/WInefzIjg4\">https://t.co/WInefzIjg4</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645837031533182976\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Brolga chicks <a href=\"https://t.co/ERvX8Q5Psg\">https://t.co/ERvX8Q5Psg</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645833863642505217\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Cattle trains of 1960s <a href=\"https://t.co/tq5Dlq2raW\">https://t.co/tq5Dlq2raW</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645831128885018624\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">PM Menzies, July 20th 1963, at opening of\u00a0Stage I Ord River Irrigation Project described\u00a0Kununurra as\u00a0&quot;the most exciting place in Australia&quot;</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645827988043403264\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">This morning we rode 65 km before 9.30 am, with a little help from a timezone shift...</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645822343432933376\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/amygillettfdn\">@amygillettfdn</a> <a href=\"https://twitter.com/ShaneRattenbury\">@ShaneRattenbury</a> <a href=\"https://twitter.com/actgovernment\">@actgovernment</a> Like legislation to include &quot;must change lanes to pass&quot; on highways eg 110 km/h 130 km/h rds</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645821087087915008\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Weather calendar for out this way. &quot;Hot&quot; it is. Orange sunsets we have. <a href=\"http://t.co/oJoqb9eonn\">http://t.co/oJoqb9eonn</a> (needs Flash) <a href=\"http://t.co/REbag1ftDE\">pic.twitter.com/REbag1ftDE</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645812895545036800\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The mystery of the zebra stone <a href=\"http://t.co/CzPKpcbBRV\">pic.twitter.com/CzPKpcbBRV</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645800169540182016\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Long shadow, from first thing this morning <a href=\"http://t.co/PkEAPuugsU\">pic.twitter.com/PkEAPuugsU</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645776619466952705\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Found feathers <a href=\"https://twitter.com/hashtag/wildoz?src=hash\">#wildoz</a> <a href=\"http://t.co/hV4ZWbrhTl\">pic.twitter.com/hV4ZWbrhTl</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645776286242082817\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Never take a banana milkshake for granted <a href=\"http://t.co/klJHJjV6rR\">pic.twitter.com/klJHJjV6rR</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/645775672367955968\">September 21, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.23413,
+                    -16.34518
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-24 19:14:09 ",
+                "tweets": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">ICYMI: New blog post! &quot;melt (v.)&quot;   <a href=\"http://t.co/QhJTnzXZGS\">http://t.co/QhJTnzXZGS</a> <a href=\"http://t.co/zbyT0WN4zW\">pic.twitter.com/zbyT0WN4zW</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/646905261022535680\">September 24, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.21664,
+                    -17.01662
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-25 19:06:06 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.99656,
+                    -17.42752
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-26 11:50:10 ",
+                "tweets": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Laying in the shade in a kind of makeshift bird hide / bough shed. Seeing budgies, your various honey eaters and yellow chats.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/647686302695993346\">September 26, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">ICYMI:: New blog post! &quot;melt (v.)&quot;   <a href=\"http://t.co/QhJTnzXZGS\">http://t.co/QhJTnzXZGS</a> <a href=\"http://t.co/zbyT0WN4zW\">pic.twitter.com/zbyT0WN4zW</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/647658345575247872\">September 26, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Heading into Purnululu national park tomorrow (home of the &#39;Bungle bungle&#39; stripped beehive domes)</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/647612722692030464\">September 26, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.9966,
+                    -17.42755
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-27 19:42:01 ",
+                "tweets": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Two Brahmans pass by our camp as the moon sets over a range this morning <a href=\"http://t.co/TY7VQBDYhG\">pic.twitter.com/TY7VQBDYhG</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648245302873341953\">September 27, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Morning <a href=\"http://t.co/BqyKVHuX18\">pic.twitter.com/BqyKVHuX18</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648244553405759488\">September 27, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The view from yesterday <a href=\"http://t.co/bZWbswYhMe\">pic.twitter.com/bZWbswYhMe</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648244424145678336\">September 27, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.4137,
+                    -18.46858
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-28 19:04:57 ",
+                "tweets": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/Coaltopia\">@Coaltopia</a> memories. Last time I sheared a bolt in my bike rack carrying all the water.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648439482597818368\">September 28, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/GreenJ\">@GreenJ</a> moonrise over Fitzroy Crossing (well, 250 km from it) <a href=\"http://t.co/Wn0Mtk5jWE\">pic.twitter.com/Wn0Mtk5jWE</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648438600120430594\">September 28, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">@geekpetedotcom <a href=\"https://twitter.com/Coaltopia\">@Coaltopia</a> reminds me. Yesterday Simon suggested marsupials had pouches for <a href=\"https://twitter.com/hashtag/quaxing?src=hash\">#quaxing</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648407189426581504\">September 28, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Here we go! <a href=\"http://t.co/0tO2JX2taq\">pic.twitter.com/0tO2JX2taq</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648389745337233408\">September 28, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"und\" dir=\"ltr\">Hmm <a href=\"http://t.co/Y2GKYHZEG3\">pic.twitter.com/Y2GKYHZEG3</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648388776075522048\">September 28, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"it\" dir=\"ltr\">Ghetto chic <a href=\"http://t.co/4Ppci2qDOt\">pic.twitter.com/4Ppci2qDOt</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648387520418287616\">September 28, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/kylie_j_s\">@kylie_j_s</a> 11 to 3, stay under a tree</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648382504659890176\">September 28, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/kylie_j_s\">@kylie_j_s</a> yeah mornings are good. Afternoons are killer</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648381843310424065\">September 28, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Managed to ride 100 km before lunch. Next bit is 290 km between services, to Fitzroy Crossing. 18 litres of water should do it? 35 degrees.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648377265265340417\">September 28, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.21751,
+                    -18.74939
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-29 19:32:03 ",
+                "tweets": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Morning <a href=\"http://t.co/M0H0HGnHTe\">pic.twitter.com/M0H0HGnHTe</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648991412785025024\">September 29, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Aperture priority shows moon like a sun, outback stars, bushfire on horizon <a href=\"http://t.co/r9kQayUtuI\">pic.twitter.com/r9kQayUtuI</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648818063995834368\">September 29, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Moonrise from camp <a href=\"http://t.co/gTf1n2mBhv\">pic.twitter.com/gTf1n2mBhv</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648816545297096705\">September 29, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Moonrise, 110 km from Fitzroy Crossing <a href=\"http://t.co/npYstv5XpO\">pic.twitter.com/npYstv5XpO</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648815574319939584\">September 29, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">This is what my water usage was like today (8.5 litres) (that&#39;s 8.5 kg less to have to carry tomorrow!) <a href=\"http://t.co/ELkbTW4efk\">pic.twitter.com/ELkbTW4efk</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648814959007170562\">September 29, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">We should get into FC tomorrow, so we earned us a rest day <a href=\"http://t.co/4bX9hdF9xQ\">pic.twitter.com/4bX9hdF9xQ</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648809091922423808\">September 29, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">It looks like a sunrise wanting to happen, but it&#39;s a bushfire. Looks cool, but hopefully stays on the horizon overnight.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648804381551276032\">September 29, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">We can see a fire on the horizon to the north of camp. Nothing on DFES about it.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648802138403966976\">September 29, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">If it wasn&#39;t for the mechanical which took an hour, it&#39;d be 100 by 10 am.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648683352673796096\">September 29, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">80 km by 10 am local, bitches</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648680870023266304\">September 29, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Simon&#39;s bike still rolling somehow.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648680779271147520\">September 29, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Simon destroyed his hub,  two spokes, puncture. Fun! 190 km to go til FC, maybe 550 km to Broome. Fingers crossed.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/648670578325393408\">September 29, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.58139,
+                    -18.20964
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-09-30 17:02:41 ",
+                "tweets": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Amazing they don&#39;t have &quot;don&#39;t serve this couple&quot; with our photos at all you can eat buffets yet. <a href=\"http://t.co/e0qGwR7s2U\">pic.twitter.com/e0qGwR7s2U</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/649358403345645568\">September 30, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/RedNomadOZ\">@RedNomadOZ</a> love this spot</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/649356809883414528\">September 30, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Sinkholes swallowing caravans? Mother nature, I applaud you. <a href=\"https://t.co/yo7wQ7cS35\">https://t.co/yo7wQ7cS35</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/649356258772828161\">September 30, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Chatted to Anne who was a cookie on Fossil Downs station when the queen visited. Also she gave us some tips on bush tucker.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/649170239943405568\">September 30, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Have I mentioned my idea, to fat bike on the moon? <a href=\"http://t.co/T6sYqqsz94\">pic.twitter.com/T6sYqqsz94</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/649160485607071744\">September 30, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Reasons to not ride to Wolfe Creek crater at the moment include bushfire <a href=\"http://t.co/srVZYSlvBx\">http://t.co/srVZYSlvBx</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/649160247676813312\">September 30, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Also, mapbox map here <a href=\"https://t.co/OzxDwlZFXO\">https://t.co/OzxDwlZFXO</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/649123865621213184\">September 30, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Map updated <a href=\"https://t.co/MVpq5MVJGy\">https://t.co/MVpq5MVJGy</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/649121600986460160\">September 30, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Just looked at the forecast for the next few days. 39 and 40 degree days. Ah fuck. Rest day tomorrow but can&#39;t escape the heat coming up.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/649093769568980992\">September 30, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">OK this explains why I was feeling nauseated riding in <a href=\"http://t.co/WCVoThgnWV\">pic.twitter.com/WCVoThgnWV</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/649093044373852160\">September 30, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Ok, made it to Fitzroy Crossing with 5 litres water spare. Think my hub has shat itself again. Carrying too much water.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/649085274933215232\">September 30, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">On the road for 3 months today.</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/649084360499421184\">September 30, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.12433,
+                    -17.81339
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-10-02 19:08:37 ",
+                "tweets": "No tweets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.06067,
+                    -17.69203
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-10-03 18:59:04 ",
+                "tweets": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">This of on our list&#10;<a href=\"http://t.co/fA9amcNqrq\">http://t.co/fA9amcNqrq</a> <a href=\"http://t.co/7ygNWHKfJc\">pic.twitter.com/7ygNWHKfJc</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650285941278425088\">October 3, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Only rode 130 km today in this. Don&#39;t want to be too silly <a href=\"http://t.co/d4az4rc6Ph\">pic.twitter.com/d4az4rc6Ph</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650235956407087105\">October 3, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">ICYMI:: New blog post &quot;You should see; there&#39;s a place I want to take you&quot;   <a href=\"http://t.co/jqgAro70Wt\">http://t.co/jqgAro70Wt</a> <a href=\"http://t.co/qSKpVU6y0g\">pic.twitter.com/qSKpVU6y0g</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650122002137661440\">October 3, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Sunrise this morning <a href=\"http://t.co/QeZAgQRsVY\">pic.twitter.com/QeZAgQRsVY</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650121844456984576\">October 3, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"und\" dir=\"ltr\">See <a href=\"http://t.co/z5V4i35RnP\">pic.twitter.com/z5V4i35RnP</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650120388299481088\">October 3, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Rode 170 km yesterday in this carrying 18 kg of water and didn&#39;t die. High five? <a href=\"http://t.co/YrRNsuXlNg\">pic.twitter.com/YrRNsuXlNg</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650119773959819264\">October 3, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.36021,
+                    -17.87361
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-10-04 19:18:09 ",
+                "tweets": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Always hearing the grey-crowned babbler like a box full of hungry kittens</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650790014113087488\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Saw an Azure Kingfisher the other day while riding but I don&#39;t have the quick-draw or equipment to photo <a href=\"https://t.co/t7oHiWjgH2\">https://t.co/t7oHiWjgH2</a>. Dazzling</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650613412645351424\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">This looks good <a href=\"http://t.co/r6EVxxzJ7x\">http://t.co/r6EVxxzJ7x</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650612204576747520\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Its broken <a href=\"http://t.co/YvVLBUfXnp\">pic.twitter.com/YvVLBUfXnp</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650569131255685121\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Sounds like home (Melbourne) will soon know how we feel, if the weather forecast comes true. <a href=\"https://twitter.com/hashtag/itsonlyspringdamnit?src=hash\">#itsonlyspringdamnit</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650567372856623104\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">How The Location Of Your Home Affects Your Health <a href=\"http://t.co/B7YfpNpcky\">http://t.co/B7YfpNpcky</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650558323947737088\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"it\" dir=\"ltr\">Mango pizza <a href=\"http://t.co/jBRuZ8k9V1\">pic.twitter.com/jBRuZ8k9V1</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650541307681595392\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Sunset picture. Mango sunset cocktail that is. <a href=\"http://t.co/hjqhbOPvgl\">pic.twitter.com/hjqhbOPvgl</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650539278825459712\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">LOL Simon just tried to buy a pizza with a Myki card. &quot;You can barely pay for public transport with that card.&quot;</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650537034478518272\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Julian Burnside: What sort of country are we? <a href=\"https://t.co/OWfpX6et6W\">https://t.co/OWfpX6et6W</a> via <a href=\"https://twitter.com/ConversationEDU\">@ConversationEDU</a> | A must read</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650530547723145216\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Well guess we&#39;ll be here for a while then <a href=\"http://t.co/rT36nztP4t\">pic.twitter.com/rT36nztP4t</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650528816738119687\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">I guess we couldn&#39;t ride past it <a href=\"http://t.co/zWMgVQxsR0\">pic.twitter.com/zWMgVQxsR0</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650527386698575872\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Update: I have showered</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650498932137594880\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Brahmans big in this roadhouse <a href=\"http://t.co/qE4PaaaVUZ\">pic.twitter.com/qE4PaaaVUZ</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650486760149942273\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/girlcallederin\">@girlcallederin</a> I&#39;ve lived in a few multistorey places and the residents more likely to not own cars. Pedestrian traffic chaos?</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650482301688659968\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Roebuck. 34 km to Broome</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650481433765515264\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/thebeerzilla\">@thebeerzilla</a> so August</p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650480756523831296\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Found this wild boar on the side of the road <a href=\"http://t.co/lVVpXR0rIj\">pic.twitter.com/lVVpXR0rIj</a></p>&mdash; maree (@mareebiketouroz) <a href=\"https://twitter.com/mareebiketouroz/status/650468638944727041\">October 4, 2015</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            }
+        }
+    ]
+}
