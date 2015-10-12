@@ -1053,6 +1053,45 @@
             "properties": {
                 "date": "2015-10-04 19:18:09 "
             }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.21509,
+                    -17.98297
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-10-05 22:54:04 "
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.93501,
+                    -31.93684
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-10-08 02:51:47 "
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.86107,
+                    -31.94151
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-10-08 18:07:59 "
+            }
         }
     ]
 }

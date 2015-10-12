@@ -487,5 +487,23 @@
                 <coordinates>122.36021,-17.87361,0.0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="feat_83">
+            <name>2015-10-05 22:54:04 </name>
+            <Point id="geom_81">
+                <coordinates>122.21509,-17.98297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>2015-10-08 02:51:47 </name>
+            <Point id="geom_82">
+                <coordinates>115.93501,-31.93684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>2015-10-08 18:07:59 </name>
+            <Point id="geom_83">
+                <coordinates>115.86107,-31.94151,0.0</coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>
