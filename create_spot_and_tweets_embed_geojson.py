@@ -113,7 +113,7 @@ config.read('my.config')
 email = config.get('email','email')
 passwd = config.get('email', 'passwd')
 folder = config.get('email', 'folder')
-outputfile = config.get('output', 'geojsonfile')
+outputfile = config.get('output', 'geojsontweetsfile')
 spotdatetimeformat = config.get('spot','datetimeformat')
 isodatetimeformat = config.get('misc','isodatetimeformat')
 
