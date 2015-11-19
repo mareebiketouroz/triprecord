@@ -49,4 +49,4 @@ for num in data[0].split():
 mail.close()
 mail.logout()
 kml.save(outputfile)
-print 'Camps kml written to %s' % outputfile
+print('Camps kml written to {}'.format(outputfile))

@@ -46,12 +46,12 @@ for num in data[0].split():
         if line.find('GPS location Date/Time:') != -1:
             date = line.replace('GPS location Date/Time:','')
     if lat and lon and date:
-        print "Lat %s Lon %s Date %s" % (lat, lon, date)
+        print("Lat {lat} Lon {lon} Date {date}".format(lat=lat, lon=lon, date=date))
         date = parser.parse(date).strftime(isodatetimeformat)
         feature = geojson.Feature(geometry=geojson.Point((lon,lat)), properties={"date": date})
         features.append(feature)
     else:
-        print "Lat/lon/date not found"
+        print("Lat/lon/date not found")
 mail.close()
 mail.logout()
 
@@ -60,7 +60,7 @@ if len(features) > 0:
     f = open(outputfile,'w')
     geojson.dump(featurecollection, f, indent=4)
     f.close()
-    print 'Camps geojson saved to %s' % outputfile
+    print('Camps geojson saved to %s' % outputfile)
 else:
-    print 'No features found'
+    print('No features found')
 

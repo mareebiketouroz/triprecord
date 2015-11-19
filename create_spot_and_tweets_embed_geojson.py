@@ -56,7 +56,7 @@ api = twitter.Api(
         access_token_key=accesstokenkey,
         access_token_secret=accesstokensecret)
 
-#print api.VerifyCredentials()
+#print(api.VerifyCredentials())
 
 ## "Wed Aug 27 13:08:45 +0000 2008"
 #%a %b %d %H:%M:%S %z %Y
@@ -139,15 +139,15 @@ for num in data[0].split():
         if line.find('GPS location Date/Time:') != -1:
             date = line.replace('GPS location Date/Time:','')
     if lat and lon and date:
-        print "Lat %s Lon %s Date %s" % (lat, lon, date)
+        print("Lat %s Lon %s Date %s" % (lat, lon, date))
         date = parser.parse(date).strftime(isodatetimeformat)
 	## get tweets for date
 	d = arrow.get(date).format('YYYY-MM-DD')
 	t = []
 	if d in tweets_json:
 	    tweets = tweets_json[d]	
-	    print tweets
-	    print [tweet['embed'].encode("utf-8") for tweet in tweets]
+	    print(tweets)
+	    print([tweet['embed'].encode("utf-8") for tweet in tweets])
 	    tweet_embeds = [tweet['embed'].encode("utf-8") for tweet in tweets]
 	    tweet_embeds = "".join(tweet_embeds)
 	else:
@@ -155,7 +155,7 @@ for num in data[0].split():
         feature = geojson.Feature(geometry=geojson.Point((lon,lat)), properties={"date": date, "tweets": tweet_embeds})
         features.append(feature)
     else:
-        print "Lat/lon/date not found"
+        print("Lat/lon/date not found")
 mail.close()
 mail.logout()
 
@@ -164,7 +164,7 @@ if len(features) > 0:
     f = open(outputfile,'w')
     geojson.dump(featurecollection, f, indent=4)
     f.close()
-    print 'Camps geojson saved to %s' % outputfile
+    print('Camps geojson saved to %s' % outputfile)
 else:
-    print 'No features found'
+    print('No features found')
 
