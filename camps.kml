@@ -685,5 +685,41 @@
                 <coordinates>136.09959,-34.37077,0.0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="feat_116">
+            <name>2015-11-20 17:31:31 </name>
+            <Point id="geom_114">
+                <coordinates>136.57315,-33.91731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>2015-11-21 19:43:35 </name>
+            <Point id="geom_115">
+                <coordinates>137.16780,-33.28444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>2015-11-22 19:31:34 </name>
+            <Point id="geom_116">
+                <coordinates>137.75816,-32.48521,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_119">
+            <name>2015-11-26 19:23:39 </name>
+            <Point id="geom_117">
+                <coordinates>138.05600,-33.10590,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_120">
+            <name>2015-11-27 21:27:56 </name>
+            <Point id="geom_118">
+                <coordinates>137.62596,-33.93172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_121">
+            <name>2015-11-28 17:33:03 </name>
+            <Point id="geom_119">
+                <coordinates>138.14505,-34.18605,0.0</coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>

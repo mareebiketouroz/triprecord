@@ -1482,6 +1482,84 @@
             "properties": {
                 "date": "2015-11-19 17:04:03 "
             }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.57315,
+                    -33.91731
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-11-20 17:31:31 "
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.1678,
+                    -33.28444
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-11-21 19:43:35 "
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.75816,
+                    -32.48521
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-11-22 19:31:34 "
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.056,
+                    -33.1059
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-11-26 19:23:39 "
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.62596,
+                    -33.93172
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-11-27 21:27:56 "
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.14505,
+                    -34.18605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-11-28 17:33:03 "
+            }
         }
     ]
 }
