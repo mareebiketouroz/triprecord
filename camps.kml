@@ -721,5 +721,35 @@
                 <coordinates>138.14505,-34.18605,0.0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="feat_122">
+            <name>2015-11-29 21:45:49 </name>
+            <Point id="geom_120">
+                <coordinates>138.57184,-34.92311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_123">
+            <name>2015-11-30 12:51:10 </name>
+            <Point id="geom_121">
+                <coordinates>138.59471,-34.92599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_124">
+            <name>2015-12-02 22:44:08 </name>
+            <Point id="geom_122">
+                <coordinates>147.16769,-41.48024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_125">
+            <name>2015-12-03 17:15:25 </name>
+            <Point id="geom_123">
+                <coordinates>147.05119,-41.37404,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_126">
+            <name>2015-12-04 15:51:06 </name>
+            <Point id="geom_124">
+                <coordinates>146.77809,-41.25732,0.0</coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>

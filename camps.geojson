@@ -1560,6 +1560,71 @@
             "properties": {
                 "date": "2015-11-28 17:33:03 "
             }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.57184,
+                    -34.92311
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-11-29 21:45:49 "
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.59471,
+                    -34.92599
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-11-30 12:51:10 "
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.16769,
+                    -41.48024
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-12-02 22:44:08 "
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.05119,
+                    -41.37404
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-12-03 17:15:25 "
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.77809,
+                    -41.25732
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-12-04 15:51:06 "
+            }
         }
     ]
 }
