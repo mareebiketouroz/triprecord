@@ -787,5 +787,65 @@
                 <coordinates>145.32373,-42.15529,0.0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="feat_133">
+            <name>2015-12-13 18:08:04 </name>
+            <Point id="geom_131">
+                <coordinates>145.56340,-42.07498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_134">
+            <name>2015-12-14 17:38:31 </name>
+            <Point id="geom_132">
+                <coordinates>145.56403,-42.07474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_135">
+            <name>2015-12-15 16:44:13 </name>
+            <Point id="geom_133">
+                <coordinates>146.47903,-42.25772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_136">
+            <name>2015-12-16 17:38:36 </name>
+            <Point id="geom_134">
+                <coordinates>146.79535,-42.66701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_137">
+            <name>2015-12-17 15:58:25 </name>
+            <Point id="geom_135">
+                <coordinates>146.40591,-42.75845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_138">
+            <name>2015-12-18 15:19:09 </name>
+            <Point id="geom_136">
+                <coordinates>146.06061,-42.78682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_139">
+            <name>2015-12-19 09:57:11 </name>
+            <Point id="geom_137">
+                <coordinates>146.04587,-42.76627,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_140">
+            <name>2015-12-20 11:37:09 </name>
+            <Point id="geom_138">
+                <coordinates>146.04596,-42.76630,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_141">
+            <name>2015-12-21 16:43:49 </name>
+            <Point id="geom_139">
+                <coordinates>146.53096,-42.75935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_142">
+            <name>2015-12-22 11:33:40 </name>
+            <Point id="geom_140">
+                <coordinates>146.71550,-42.68549,0.0</coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>
