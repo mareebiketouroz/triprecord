@@ -1833,6 +1833,58 @@
             "properties": {
                 "date": "2015-12-22 11:33:40 "
             }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.0685,
+                    -42.77748
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-12-24 15:39:05 "
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.0685,
+                    -42.77751
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-12-24 20:28:11 "
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.32672,
+                    -42.88612
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-12-26 15:43:25 "
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.32672,
+                    -42.88725
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "date": "2015-12-26 15:56:06 "
+            }
         }
     ]
 }
